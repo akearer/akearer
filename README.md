@@ -13,3 +13,5 @@
 [这里](https://akearer.pages.dev)是我的个人网站，你可以在网站的[关于](https://akearer.pages.dev/about)页面找到我的联系方式。
 
 爱你哦(。・ω・。)
+
+![](56.png)
