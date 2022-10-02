@@ -14,4 +14,4 @@
 
 爱你哦(。・ω・。)
 
-![](imgs/56.png)
+![](https://cdn.jsdelivr.net/gh/akearer/akearer@main/imgs/56.png)
