@@ -12,7 +12,7 @@
 
 就先写这么多吧，剩下的话…等我想好了再写吧。
 
-[这里](https://akearer.pages.dev)是我的个人网站，你可以在网站的[关于](https://akearer.pages.dev/about)页面找到我的联系方式。
+[这里](https://akearer.pages.dev)是我的个人网站，你可以在[这里](https://github.com/akearer/akearer/blob/main/contact%20details.md)找到我的联系方式。
 
 爱你哦(。・ω・。)
 
