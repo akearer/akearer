@@ -1,4 +1,4 @@
-> [简体中文](https://github.com/akearer/akearer/blob/main/README.md) | [English](https://github.com/akearer/akearer/blob/main/README(en).md)
+> [简体中文](https://github.com/akearer/akearer/blob/main/README.md)|[English](https://github.com/akearer/akearer/blob/main/README(en).md)
 
 你好，我是akearer | Hello,this is akearer
 
