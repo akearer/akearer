@@ -8,7 +8,7 @@ I am not good at communicate with others.
 
 But I still wannda be your friend if I can.
 
-[Here](https://akearer.pages.dev) is my blog.
+[Here](https://akearer.top/) is my blog.
 
 You can find my contact details [here](https://github.com/akearer/akearer/blob/main/contact%20details.md).
 
