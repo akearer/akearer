@@ -1,3 +1,3 @@
 Emali: akearer@gmail.com [Send an email](mailto:akearer@gmail.com)
 
-Telegram: [@Linuxsetup_awa](https://t.me/Linuxsetup_awa)
+Telegram: [@akearer_awa_bot](https://t.me/akearer_awa_bot)
