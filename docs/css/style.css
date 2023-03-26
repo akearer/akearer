@@ -1,5 +1,27 @@
-@media (prefers-color-scheme: dark) { /* 这部分是当设备处于深色模式时所展示内容 */
+@media (prefers-color-scheme: dark) {
     body {
         background: #222;
         color: #eee;
-    }    
+    }}
+
+nav {
+    border-bottom: 1px solid black;
+}
+    
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+    
+.crumb {
+    display: inline-block;
+}
+    
+.crumb a::after {
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
