@@ -1,19 +1,14 @@
-> [简体中文](https://github.com/akearer/akearer/blob/main/README.md)|[English](https://github.com/akearer/akearer/blob/main/README(en).md)
+### Who I am
+I'm a little gril just in the crowd,  
+and a student anxious about the future.    
 
-你好，我是akearer | Hello,this is akearer
+### About me
+I enjoy listening to music, reading and playing games when I'm feeling not very tried >⁠.⁠<  
 
-一个普通的女生。
+And here's  my [blog](https://akearer.top/).    
+(I don't have much time for myself, so there's still little content 🥹 )  
 
-和身边的人基本上没有共同话题，不喜欢参加各种社交活动（其实就是社恐qwq）
+Also, I could be one of your friends if you want.
 
-语言表达能力极差，几乎等于没有(´。＿。｀)
-
-不过还是希望能和你成为好朋友（如果可以的话）
-
-就先写这么多吧，剩下的话…等我想好了再写吧。
-
-[这里](https://akearer.top/)是我的个人网站，你可以在[这里](https://github.com/akearer/akearer/blob/main/contact%20details.md)找到我的联系方式。
-
-爱你哦(。・ω・。)
-
-![](https://cdn.jsdelivr.net/gh/akearer/akearer@main/imgs/56.png)
+### Reach me
+email: akearer@gmail.com
